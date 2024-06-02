@@ -51,5 +51,5 @@ Installation
 
 ## Credits
 
-This code was originally created by CampusX (@campusx-official).
+This code was originally created by CampusX (@campusx-official). \
 Many lines of code have been added and modified.
